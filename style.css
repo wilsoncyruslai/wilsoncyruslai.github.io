@@ -1,0 +1,17 @@
+* {margin:0; padding:0;}
+html {height:100%;}
+body { height:100%; background:#f9f9f7;}
+table, td {border-collapse:collapse; font-size:100%;}
+table, td, img {border:0;}
+form, td {margin:0; padding:0;}
+td, select, input {font-family:Arial; color:#4A6571; vertical-align:top; text-align:left;}
+img { vertical-align:top;}
+
+
+
+
+
+.w { width:100%;}
+.site_center {text-align:center; width:100%;}
+.site_center1 {margin:0 auto; text-align:left; width:780px;}
+
